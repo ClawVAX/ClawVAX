@@ -7,6 +7,8 @@
 <p align="center">
   A high-performance dApp ecosystem built for speed and security, <strong>powered by Avalanche (AVAX)</strong>.
 </p>
+https://arena.social/Clawvax_
+https://x.com/Clawvax_
 
 <p align="center">
   <img src="https://img.shields.io/badge/Mainnet-Powered_by_AVAX-E84142?style=flat-square&logo=avalanche" alt="Powered by Avalanche"/>
@@ -66,3 +68,4 @@ Clone the repository and install dependencies (placeholder command):
 git clone [https://github.com/YourUsername/ClawVax-Protocol.git](https://github.com/YourUsername/ClawVax-Protocol.git)
 cd ClawVax-Protocol
 npm install
+
