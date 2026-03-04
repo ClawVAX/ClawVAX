@@ -7,8 +7,11 @@
 <p align="center">
   A high-performance dApp ecosystem built for speed and security, <strong>powered by Avalanche (AVAX)</strong>.
 </p>
-https://arena.social/Clawvax_
-https://x.com/Clawvax_
+comunity : [https://arena.social/Clawvax_](https://arena.social/community/0x7E8819061d5405FD34654BC972dAbE500092835A)
+
+buy https://arenatrade.ai/token/0x7e8819061d5405fd34654bc972dabe500092835a
+
+x https://x.com/Clawvax_
 
 <p align="center">
   <img src="https://img.shields.io/badge/Mainnet-Powered_by_AVAX-E84142?style=flat-square&logo=avalanche" alt="Powered by Avalanche"/>
